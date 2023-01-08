@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @Joe0lsen
 
 - 👀 I’m interested in ...
-    Web development, 3D software, and business
+    Web/App development, 3D software
     
 - 🌱 I’m currently learning ...
-    Javascript on freeCodeCamp.org
-    
-- 💞️ I’m looking to collaborate on ...
-    Portfolio-building projects! =)
-    
+    Computer Science at BYU-Idaho!
+        
 - 📫 How to reach me ...
     olsen.jcm@gmail.com
 
