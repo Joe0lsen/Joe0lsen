@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joe0lsen
+- 👋 Hi, I’m @Joe0lsen (with a zero)
 
 - 👀 I’m interested in ...
     Web/App development, 3D software
