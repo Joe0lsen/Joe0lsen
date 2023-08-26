@@ -8,7 +8,7 @@ I'm interested in web/app development, 3D math and rendering, and how computers 
 I want to build useful or cool things, and I'm also curious about how computer systems work.
     
 I'm currently learning ReactJS and ThreeJS.
-I want to dive deaper into functional programming, and eventually want to learn assembly language.
+I want to dive deaper into low-level programming, and eventually want to learn assembly language.
 
 If you would like to contact me, my email is: olsen.jcm@gmail.com
 
