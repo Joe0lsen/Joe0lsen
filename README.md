@@ -12,3 +12,5 @@ I want to dive deaper into low-level programming, and eventually want to learn a
 
 If you would like to contact me, my email is: olsen.jcm@gmail.com
 
+Also check out my portfolio page: https://joe0lsen.github.io
+
