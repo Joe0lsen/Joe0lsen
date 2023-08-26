@@ -1,15 +1,14 @@
-- 👋 Hi, I’m @Joe0lsen (with a zero)
+Hi, I’m @Joe0lsen (with a zero).
+I'm a software engineer, a creative probelm solver, and a dreamer.
+"If you can dream it, you can do it."
+"Where there is no vision, the people perish."
+Software has the power to solve just about anything.
 
-- 👀 I’m interested in ...
-    Web/App development, 3D software
+I'm interested in web/app development, 3D math and rendering, and how computers work at a low level.
+I want to build useful or cool things, and I'm also curious about how computer systems work.
     
-- 🌱 I’m currently learning ...
-    Computer Science at BYU-Idaho!
-        
-- 📫 How to reach me ...
-    olsen.jcm@gmail.com
+I'm currently learning ReactJS and ThreeJS.
+I want to dive deaper into functional programming, and eventually want to learn assembly language.
 
-<!---
-Joe0lsen/Joe0lsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you would like to contact me, my email is: olsen.jcm@gmail.com
+
